@@ -1,6 +1,6 @@
 # phpspammer
 
-Note:- This is for education purpose only! Don't misuse it.
+Note:- This is for education purpose only! Don't misuse it. I am not responsible for any damage use it on your own responsibility.
 
 Spoof and Spam email script using php with html and css form.
 
